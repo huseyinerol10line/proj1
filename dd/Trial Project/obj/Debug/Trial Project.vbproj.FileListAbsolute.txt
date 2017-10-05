@@ -1,0 +1,12 @@
+C:\Users\dell\source\repos\Trial Project\Trial Project\bin\Debug\Trial Project.exe.config
+C:\Users\dell\source\repos\Trial Project\Trial Project\bin\Debug\Trial Project.exe
+C:\Users\dell\source\repos\Trial Project\Trial Project\bin\Debug\Trial Project.pdb
+C:\Users\dell\source\repos\Trial Project\Trial Project\bin\Debug\Trial Project.xml
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.vbprojResolveAssemblyReference.cache
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial_Project.Form1.resources
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial_Project.Resources.resources
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.vbproj.GenerateResource.Cache
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.vbproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.exe
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.xml
+C:\Users\dell\source\repos\Trial Project\Trial Project\obj\Debug\Trial Project.pdb
